@@ -1,5 +1,5 @@
 <h1 align="center">Oi 👋, Eu sou o Luiz Felipe</h1>
-<h3 align="center">Estudante da área de dados</h3>
+<h3 align="center">Estudante de Dados</h3>
 
 - 🔭 Atualmente estou trabalhando no [Calcule Aqui](https://calculeaqui.streamlit.app/)
 
