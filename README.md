@@ -7,7 +7,6 @@
 
 - 💬 Me pergunte sobre **SQL, Python, Excel, Tableau e Estatística**
 
-- 📫 Você me acha através do e-mail **fernandes290692@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
