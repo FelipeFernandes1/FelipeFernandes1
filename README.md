@@ -3,9 +3,7 @@
 
 - 🔭 Atualmente estou trabalhando no [Calcule Aqui](https://calculeaqui.streamlit.app/)
 
-- 🌱 Atualmente estou aprendendo sobre **Streamlit, metodologias ágeis e Git**
-
-- 💬 Me pergunte sobre **SQL, Python, Excel, Tableau e Estatística**
+- 🌱 Atualmente estou aprendendo sobre **machine learning(classificação)**
 
 
 <h3 align="left">Connect with me:</h3>
